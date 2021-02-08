@@ -1,3 +1,4 @@
+let h1 = document.querySelector('h1')
 let btn1 = document.querySelector('#example1')
 let btn2 = document.querySelector('#example2')
 let btn3 = document.querySelector('#example3')
