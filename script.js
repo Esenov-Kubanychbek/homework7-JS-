@@ -1,0 +1,5 @@
+let btn1 = document.querySelector('#example1')
+let btn2 = document.querySelector('#example2')
+let btn3 = document.querySelector('#example3')
+let btn4 = document.querySelector('#example4')
+let btn5 = document.querySelector('#example5')
